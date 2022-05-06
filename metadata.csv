@@ -1,0 +1,29 @@
+Declare,metatab-latest
+Title,Get It Done Reports
+Description,
+Identifier,8acbc8d7-b603-4edf-9b43-d6f81bd2829f
+Name,sandiego.gov-get_it_done-1.1.1
+Dataset,get_it_done
+Origin,sandiego.gov
+Time,
+Space,
+Grain,
+Variant,
+Version,1.1.1
+Version.Major,1
+Version.Minor,1
+Version.Patch,1
+Created,2022-05-06T16:50:23
+Modified,2022-05-06T16:50:23
+""
+Section,Contacts,Email,Organization,Url
+Wrangler,Eric Busboom,eric@civicknowledge.com,Civic Knowledge,http://civicknowledge.com
+""
+Section,Documentation,Title,Description,
+Documentation,file:README.md,README,,
+""
+Section,References,Name,Description,
+""
+Section,Resources,Name,Description,
+""
+Section,Schema,DataType,AltName,Description
